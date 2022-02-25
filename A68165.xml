@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse of the great ouerthrow giuen by the French King vnto the leaguers in Poictiers, in Februarie last With the names of all such men of account as were slaine or taken prisoners. Truly translated according to the French coppie, printed by the Kings printer at Tours.</title>
+            <title>Discours de ce qui s'est passé en Poictou sur la deffaicte du vicomte de la Guyerche, &amp; de toutes ses trouppes, durant le mois de febrier de l'ãnne presente. English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1592</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68165</idno>
+            <idno type="STC">STC 13133</idno>
+            <idno type="STC">ESTC S106093</idno>
+            <idno type="EEBO-CITATION">99841818</idno>
+            <idno type="PROQUEST">99841818</idno>
+            <idno type="VID">6428</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 6428)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 379:5, 547:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse of the great ouerthrow giuen by the French King vnto the leaguers in Poictiers, in Februarie last With the names of all such men of account as were slaine or taken prisoners. Truly translated according to the French coppie, printed by the Kings printer at Tours.</title>
+                  <title>Discours de ce qui s'est passé en Poictou sur la deffaicte du vicomte de la Guyerche, &amp; de toutes ses trouppes, durant le mois de febrier de l'ãnne presente. English.</title>
+               </titleStmt>
+               <extent>[2], 13, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [By T. Scarlet] for Cuthbert Burbie, and are to bee solde [by W. Wright] at the middle shop vnder Saint Mildreds Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1592.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation of: Discours de ce qui s'est passé en Poictou sur la deffaicte du vicomte de la Guyerche, &amp; de toutes ses trouppes, durant le mois de febrier de l'ãnne presente.</note>
+                  <note>Printer's and bookseller's names from STC.</note>
+                  <note>Identified as STC 11271+ on 379:5.</note>
+                  <note>Reproductions of the original in the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Appears at reel 379 and at reel 547 (same copy filmed twice).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  History --  Wars of the Huguenots, 1562-1598 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:6428:1"/>
+            <pb facs="tcp:6428:1" rendition="simple:additions"/>
+            <p>A DISCOVERSE OF THE GREAT ouerthrow giuen by the French King vnto the Leaguers in Poictiers, in Februarie laſt.</p>
+            <p>With the names of all ſuch men of account as were ſlaine or taken Priſoners.</p>
+            <p>Truly tranſlated according to the French Coppie, printed by the Kings Printer at Tours.</p>
+            <figure>
+               <head>C. B.</head>
+               <q xml:lang="lat">SEMPER EADEM</q>
+               <figDesc>printer's device consisting of a phoenix in flames with the motto Semper eadem and the initials C. B., belonging to Cuthbert Burby, 1592-1607 (McKerrow 297)</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON</hi> Printed for Cuthbert Burbie, and are to bee ſolde at the middle ſhop vnder Saint Mildreds Church. 1592.</p>
+         </div>
+      </front>
+      <body>
+         <div type="newsbook">
+            <pb facs="tcp:6428:2"/>
+            <pb facs="tcp:6428:2"/>
+            <head>A DISCOVRSE OF all that vvhich happened in Poictiers, of the ouerthrow of the Vi<g ref="char:EOLhyphen"/>cont <hi>de la Guierche,</hi> and all his Armie, in Februarie laſt.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T was wel inough knowen vnto the moſt part, that the towne and Caſtle of Guyerche (bee<g ref="char:EOLhyphen"/>ing a paſſage ouer the riuer of Ce<g ref="char:EOLhyphen"/>ruſe) dyd greatlie hinder the kinges friends, and fauor his enemies, vnder the colour of the olde Lord of the place, which had obtained of his Maieſtie in reſpect of his age, a certain aſſurance (hauing the like of the contrarie parte, by meanes of the Vicont his ſonne, who was chiefe of Poictiers) to the end he might ſeeme the kings friend, bee<g ref="char:EOLhyphen"/>ing indeed altogether a fauourer and vpholder of the Spaniards, as his ſonne was.</p>
+            <pb n="2" facs="tcp:6428:3"/>
+            <p>And ſince theſe troubles it is found that the olde Lord would not ſuffer paſſage to be geuen to the Kings troupes, but when the Leaguers had paſſed by; he would not (although he did) ſee them: And ſo much yet did this contagi<g ref="char:EOLhyphen"/>on breake foorth to the harme of manie Inha<g ref="char:EOLhyphen"/>bitants of his Towne, who affected the Vicont, that they which were encountred by the kinges troupes, (information being geuen of their de<g ref="char:EOLhyphen"/>meanor) they were iudged to be of good prize, and voluntarely paid ranſom.</p>
+            <p>Beſides this, the Vicont hauing intelligence of the ſicknes of his father, had ſeduced manie perſons to his parttaking, to the end to ſurprice the place as ſoone as occaſion might bee mini<g ref="char:EOLhyphen"/>ſtred vnto him, but was preuented by the diligence of Monſieur de Sallerin, chiefe Gouer<g ref="char:EOLhyphen"/>nor for his Maieſtie of the Towne and Caſtle of Loches. Who hauing had intelligence of theſe actions, and conſidering likewiſe the enor<g ref="char:EOLhyphen"/>mitie and danger which this place might be vn<g ref="char:EOLhyphen"/>to all that Countrie, and chieflie vnto the town of Loches, which was not aboue fiue or ſixe miles diſtant from them, he iudged that it was requiſite to remedie it ſpeedelie.</p>
+            <p>And meaning to ouerſlip no time, hee ſent on the ſecond ſunday of this moneth of Februa<g ref="char:EOLhyphen"/>rie, the young Prince of Campagnol to ſurpriſe the ſaid Town of Guierche, being aſſiſted with theſe Captaines, <hi>Prat, Brunet, Gardellia, de l'Aage,
+<pb n="3" facs="tcp:6428:3"/>Beray, Orignac, Cormier,</hi> and others of the ordina<g ref="char:EOLhyphen"/>rie followers of the ſayd Lord of Sallerin, who executed ſo happely the enterpriſe, that they tooke the ſaid Towne on Mondaye, being the third day of Februarie, about ſeuen of the clock in the morning, by the order &amp; direction which the Lord of Sallerin had geuen. In the taking whereof, there was few ſlaine of account, but the Lorde de la Chaſtiere, who was ſlaine in flight, being chiefe Commaunder of the ſaide Towne, and much affectioned vnto the Vi<g ref="char:EOLhyphen"/>cont.</p>
+            <p>This being done, preſently the Lorde of Campagnoll gaue aduertiſement of this exploit to the Lord Sallerin Pou, that he might prouide for that which might follow: for that the caſtle was not yet taken, neither had they wherewith to force them, and the old Lord of the place had aduertiſed his ſonne the Vicont, of his miſhap, willing him to come to his ſuccours. Which thing gaue apparant teſtimonie of entercourſe betweene the father and the ſonne, and that the ſhewe which the old Lorde made, was but to keepe his goods, being in his minde and action altogether enemie to the king.</p>
+            <p>The Lorde of Sallerin vnderſtanding of theſe accidents, and reſoluing to goe thether in perſon, as well for that he would not leaue his Soldiers and friendes in danger, as alſo not to leaue ſuch a worke vnfiniſhed, being a thing of
+<pb n="4" facs="tcp:6428:4"/>great importance, to the ſeruice of the King, &amp; benefit to al the Countrie: and hauing alreadie prepared for that enterpriſe, there was preſently ſent him by Monſieur de Vaure, brother vnto Monſieur de Montigici, thirtie light horſemen, and fiftie Harquebuſiers on horsbacke, being guided by the Lord of Boys la Vigne, hee ad<g ref="char:EOLhyphen"/>uertiſed alſo Captaine Coueſelles, Lieutenant to the Lorde of Leſſart a Chaſtillop, to come thether with his Garriſon, and the Captaine Houſſaye, and Merey, with ſixtie harguebuſies, on horsback.</p>
+            <p>In the meane time the ſaid Lord of Salle<g ref="char:EOLhyphen"/>rin ſent the Captaines S. Anne, S. Michall, and Chizeaux, being of the regiment of the Lorde de Vatau, to the ſaide Towne of Guierche, to ſerue and ayde the ſaid Lord of Campagnoll in theſe affaires, and himſelfe vſed diligence in all other thinges which he thought conuenient for his purpoſe.</p>
+            <p>After he had ordered theſe thinges before ſpoken and rehearſed, he cauſed two Culuerins to be prepared in readines, for to march, as hee thought, very requiſite, and ſent to Monſieur the Mayor of Tours, praying him to ſende him the Captaine la Vallade, with threeſcore har<g ref="char:EOLhyphen"/>guebuſies, for to ſafeconduct the two peeces.</p>
+            <p>And meaning himſelfe to goe before, hee gaue order to receiue the ſaid Captaine, Lorde Vallade, into Loches, and there to ſtay vntill he
+<pb n="4" facs="tcp:6428:4"/>ſent him word to the contrarie, and alſo to keep the companie which he brought, and expect o<g ref="char:EOLhyphen"/>ther forces from him to accompanie the ſayde peeces if he had time.</p>
+            <p>Alſo, the ſaid Lord ſent the ſame day cer<g ref="char:EOLhyphen"/>taine Carts laden with powder, pikes, ſhot, and other inſtruments of warre, which might ſerue for ſuch occaſions.</p>
+            <p>On the next morrow which was Tueſdaye, the ſaid Lord of Sallerin departed from Loches, with the Lord Bois la Vigne, the Lords; gouer<g ref="char:EOLhyphen"/>nors of Pretay de Marernes, Caſtram la Bigeay, les Moulins, and le Puy Becheron, being all of them Gentlemen bordering neere Loches, and which had the daie before vowed to aide and aſſiſte him: and making in all fiftie horſe, they came about fiue of the clock that euening vnto Guierche. Where preſently hee was certified, that the Vicont of Guierche was comming the<g ref="char:EOLhyphen"/>ther with two hundred Horſemen, and two hundred Harguebuſiers on horſsback, two hun<g ref="char:EOLhyphen"/>dred Spaniſhe Footemen, and two hundred Frenchmen, bringing with them one peece of campane ordinance.</p>
+            <p>Vppon which newes, the Lorde of Sallerin ſent to Monſieur d'Abain, Gouernour of the high and lowe Marches, (who was then not far off vpon other occaſions) deſiring to ayde him with his forces, which he preſently graunted to, and hauing the Lord Baron d'Abain his ſon
+<pb n="6" facs="tcp:6428:5"/>with him, hee went to ioyne in companie with the ſaid Lord Sallerin, in Guierche, with thirtie good horſe, and an hundred harguebuſiers on horſeback, who reſolued firſt to goe and ſee the three troupes of the Regiment of Vatan, which were lodged in the Suburbes, neere the Bridge of Guierche, and to knowe particularlie what want of munition for warre they were in, for their defence, geuing them to vnderſtande of the reſolute attempt which the night following he meant to make to them of the Caſtle, by aſ<g ref="char:EOLhyphen"/>ſaulting of them: Foreſeeing that if the Vicont came before hee did aſſault, it might make the thing more hard vnto him.</p>
+            <p>He alſo willed the Gentlemen which were within, to deliuer vp the place, otherwiſe hee would burne their houſes which were neer vn<g ref="char:EOLhyphen"/>to Guien, and puniſh them rigorouſlie when he had taken the place, whereof he hoped verie ſhortly to be poſſeſſor. To which commaunde<g ref="char:EOLhyphen"/>ment they in the end conſented, for the cauſes aboueſaid, and yeelded the Caſtle the fifte daie of Februarie, three houres within the euening, which was contrarie to the old mans will.</p>
+            <p>Which Caſtle the Lord Campagnoll did take poſſeſſion of with twentie Soldiers onelie, which thing fell out happilie, for that the Vi<g ref="char:EOLhyphen"/>cont arriued that day following about three of the clock, with all his troupes, meaning indeede to beſiege the Towne and Caſtle, with thoſe
+<pb n="7" facs="tcp:6428:5"/>which were before beſieged.</p>
+            <p>The Vicont with his forces made an aſ<g ref="char:EOLhyphen"/>ſault vnto the Suburbes neere adioyning to the bridge, which was the quarter defended by the three Companies before named, and forced them to retire, but they recouering the forces, droue him back againe, and for<g ref="char:EOLhyphen"/>ced him to departe, hauing firſt had intelli<g ref="char:EOLhyphen"/>gence of the yeelding of the Caſtle, and re<g ref="char:EOLhyphen"/>ſolued to paſſe the riuer of the Ile, where he had a houſe at commandement, very neere the paſſage.</p>
+            <p>The day being come, the Lord de Salle<g ref="char:EOLhyphen"/>rin, with the Lorde d'Abain, reſoluing to prouide for the garde of that place, wente with foureſcore good horſemen, and two hundred Harguebuſies on horſeback, to the intent to doe all the honour to the Vicont, in conducting him to the gates of Poictiers, and to recompence him (if it might be) by the way, for the great paines hee had taken.</p>
+            <p>Alſo he followed them euen to the Sub<g ref="char:EOLhyphen"/>urbs of the caſtle of Vieux, being diſtaunt from Guierche three leagues, he encoun<g ref="char:EOLhyphen"/>tred one of their companies of Harguebu<g ref="char:EOLhyphen"/>ſies, which went to refreſh themſelues, the which he quickly put to flight without anie great reſiſtance.</p>
+            <p>And the ſaid Lords, to follow their firſt
+<pb n="8" facs="tcp:6428:6"/>reſolution, hauing firſt diſcouered thoſe which did retire. At the laſt then they pur<g ref="char:EOLhyphen"/>ſued them with their light horſemen, being led by the Lord Baron de Abain, and Bors la Vigne, which ſought all meanes to know their enemies forces, to take their aduaun<g ref="char:EOLhyphen"/>tage in the battaile, to which they were ſo lately bent. But being hindered by the of<g ref="char:EOLhyphen"/>ten skirmiges they had with them, as they followed, and the place where the Vicount was, vnknowen vnto them, the Lordes de Sallerin, and d'Abain, reſolued to march to the right ſide of the Tower de Oyzay, being a verie high place, where they might beſte deſcrie their enemies forces, whereof as yet they were vncertaine.</p>
+            <p>And in the meane time the Lord Preaux, (who as he had heard was his great friend, and was comming along the Riuer of Vien<g ref="char:EOLhyphen"/>na, with one hundred and fiftie, or two hun<g ref="char:EOLhyphen"/>dred footmen, and fortie horſmen, being as well of the high tower, as of the garriſon) might ioyne with him in the plain neere the riuer by them. The Lord de Sallerin leauing his companie, went to find the L. d'Abain, &amp; Bois la Vigne, who were gone with 12. or 15. horſe, to deſcrie the order and force of the enemies, which they did ſo effectually, as it came to ſuch euent as they looked for, and
+<pb n="9" facs="tcp:6428:6"/>therfore with all their force marched foorth to finde out the L. de Abain, &amp; Preaux; who abode about 100. paces from the<g ref="char:cmbAbbrStroke">̄</g>, expecting the battel, which to begin, they ſent 20. horſ<g ref="char:EOLhyphen"/>men, &amp; 50. hargueb. guided by L. Sallerin. The L. des Preux aduanced foorth his foot<g ref="char:EOLhyphen"/>men, backt with his caualleri, who went va<g ref="char:EOLhyphen"/>liantly to aſſaile the infantry of the enemie, lodged by the enemie for moſt aduantage.</p>
+            <p>This troupe receiued many canon ſhotte from the caſtle of the Ile, and the harguebu<g ref="char:EOLhyphen"/>ſiers of the ſhot of the enemies, and of thoſe which lay in couert, did execute very braue exploites of armes, the French &amp; Spaniards fighting valiantly hand to hand: but at laſt, by the braue reſolution of M. de Preux, the Lords d'Gardeuil, Meſignac, Barredon, de Vaure, la Bruere, and de Cruere, who with their troupes behaued them ſo valyantlie, that they took the ditches, gained the moun<g ref="char:EOLunhyphen"/>tain and the medow, and the ſpaniards halfe ouercome, retired to their main battell, be<g ref="char:EOLhyphen"/>ing purſued very cloſely. L. Baron d'Abain, and de la Vigne, hauing <hi>vlerque la Cauallerie,</hi> the whole companie were put to flight, and vanquiſhed more by ſight of our courage, then by our force, where in the flight was made a great ſlaughter of the enemies, who were ſo liuely folowed, and hardly purſued,
+<pb n="10" facs="tcp:6428:7"/>and ſeeing the paſſage on that ſide of Chau<g ref="char:EOLhyphen"/>uigni, in the height of the riuer, to be kept with the troupes of the Lorde Abain, and Sallerin, and that they could not eſcape the edge of the ſword, they caſt themſelues into the Riuer, where all that did ſo, were imme<g ref="char:EOLhyphen"/>diately drowned.</p>
+            <p>The Vicont himſelfe, hoping of better fortune then the others, had (with many of the principall Leaguers) put themſelues in<g ref="char:EOLhyphen"/>to a great Boat, and aſſaied to paſſe, but the Harguebuſhers with their ſhotte, made ſuch a bramblement within their boat, as alſo, that many of thoſe which were in the water did catch holde of the boat, thereby to ſaue themſelues, ſo that the ſtrength and weight of them did oue-turne the boate the vpſide downe.</p>
+            <p>A woonderfull thing then was it to be<g ref="char:EOLhyphen"/>holde this ſpectacle, which reſembled a pat<g ref="char:EOLhyphen"/>terne of the deluge, and to heare the horri<g ref="char:EOLhyphen"/>ble cries of men, and horſes. The riuer bee<g ref="char:EOLhyphen"/>ing couered with hats, and clokes, and men, and horſes, drowned, and halfe drowned, which had ſunke, and diued vp againe. Of ſome their heads appeared, of others their legs and armes, the moſt of them armed and booted.</p>
+            <p>Which dreadfull thing doeth ſhewe
+<pb n="11" facs="tcp:6428:7"/>the iuſt iudgement of God vpon theſe miſe<g ref="char:EOLhyphen"/>rable Leaguers, who hauing made ſuch ru<g ref="char:EOLhyphen"/>ine of good men, receiued from God the guerdon of their periurie, and the chaſtiſe<g ref="char:EOLhyphen"/>ment which they had merited, and iuſtly deſerued.</p>
+            <p>The Vicont himſelfe being knowen, of one of his owne friends was taken priſoner, who tooke him out of the water, and carri<g ref="char:EOLhyphen"/>ed him on a mare vnto the foreſaid Chaſtel<g ref="char:EOLhyphen"/>leraut.</p>
+            <p>In this ouerthrowe the ſixte of February there were ſlaine and drowned more then fiue hundred men. Amongſt the which, at the leaſt were foureſcore Gentlemen and Captnes, and by report of the Trumpetter, the peſaunts and women which came from Poictiers to ſearch the dead, did finde, that of eight hundred men which wente from thence, there returned but fiftie, the reſt be<g ref="char:EOLhyphen"/>ing dead, or taken.</p>
+            <p>This worke of God is admirable, and not to be prayſed ſufficiently, that the ene<g ref="char:EOLhyphen"/>mies had three for one, and yet we had not one man either ſlaine, or wounded vnto the death: only foure or fiue Souldiers are light<g ref="char:EOLhyphen"/>ly hurt, and thoſe that are moſt dangerouſ<g ref="char:EOLhyphen"/>lie wounded, may be healed in twelue dais, and of ours were three horſe ſlaine.</p>
+            <pb n="12" facs="tcp:6428:8"/>
+            <p>The night drawing on, and waxing ex<g ref="char:EOLhyphen"/>ceeding darke, and the want of Boates was the cauſe that they were forced to geue o<g ref="char:EOLhyphen"/>uer, and could not followe the victorie: on that ſide the riuer which wee paſſed before the conflict, ſo that the ſaid Lord de Abain and de Sallerin, lodged in the Villages that were neere at hand, and bordering vppon Guierche, and the ſayd Lord des Preux re<g ref="char:EOLhyphen"/>turned to Chattelleraut.</p>
+            <p>Vppon the Friday next following, the ſaid Lord de Preux ſent to ſummon the ca<g ref="char:EOLhyphen"/>ſtle of the Ile, to which place the Vicount had withdrawen his Cannon, and the beſt part of his carriage. Which Caſtle did im<g ref="char:EOLhyphen"/>mediatly yeelde at the firſt ſummon to cap<g ref="char:EOLhyphen"/>taine l'Eſpinette, and the ſpoile was ſent to Chattelleraut.</p>
+            <p>On Saterday the eight day of Februa<g ref="char:EOLhyphen"/>rie, in the euening, and on Sundaye mor<g ref="char:EOLhyphen"/>ning, they drew out of the water more then two hundred and fiftie drowned carcaſſes, and amongſt others was the Lorde de Bon<g ref="char:EOLhyphen"/>nes, de Perigueux, Liutenant to the Vicont, and the Lord de Grandmont his nephewe, de Paluſtre, Chanboneau, and diuers others which were not knowen. And diuers others very ſumptuouſlie apparrelled, and richlie armed, which they could not know. Be<g ref="char:EOLhyphen"/>ſides,
+<pb n="13" facs="tcp:6428:8"/>dailie there are found more dead car<g ref="char:EOLhyphen"/>caſes in the ſaid riuer, as if the ſpring there<g ref="char:EOLhyphen"/>of ſhould ſeeme vnable to be drawen drie, but ſtill to increaſe.</p>
+            <p>This ouerthrowe which happened on Thurſday, being the ſixt day of Februarie, at foure of the clocke in the afternoone, or thereaboutes, is one of the moſt notableſt things that euer happened in thoſe Coun<g ref="char:EOLhyphen"/>tries, ſince theſe laſt cruell warres, which manifeſteth the great mercie of almightie God, in bleſſing and preſeruing the affaires of the moſt Chriſtian King in theſe partes: for that therein was ſlaine, and taken priſo<g ref="char:EOLhyphen"/>ners, the moſt part of the chiefe Leaguers of Poictou, Lymaſin, and Perigot.</p>
+            <p>Whoſe names, for the better ſatisfiing of all ſuch as are deſirous to bee acquainted with this ouerthrowe, are here ſet downe, as well thoſe which were ſlaine, as thoſe which were taken priſoners, to the great en<g ref="char:EOLhyphen"/>couragement of all the true ſubiectes of that valiant French king: and the diſmaying of the ſworne ſeruants of that wicked monſter of Rome, and his adherents, whom God at his good pleaſure will ouerthrow and con<g ref="char:EOLhyphen"/>found for euer.</p>
+         </div>
+         <div type="lists_of_slain_and_imprisoned">
+            <pb facs="tcp:6428:9"/>
+            <head>
+               <hi>THE NAMES OF ALL</hi> ſuch as were ſlaine or taken Priſoners. in this Battell.</head>
+            <div type="part">
+               <list>
+                  <head>Slaine.</head>
+                  <item>The Vicont of Guyerche.</item>
+                  <item>The Lord of Bonne, who was his Lieuetenant in the gouernment.</item>
+                  <item>The Lord of Montaumart, Enſigne of the ſame Companie.</item>
+                  <item>The Lord of Barre Sauuagere.</item>
+                  <item>The Lord of Ferrandiere of Bournais.</item>
+                  <item>The L. Paluſtre lieuetenant of the men of Arms of the towne.</item>
+                  <item>The Lordes of Anbus, Brethren.</item>
+                  <item>The Lordes of Luuy vpon Creuſe.</item>
+                  <item>The Lord of Bardiere.</item>
+                  <item>The Lord Narchais.</item>
+                  <item>The L. Puy de la Barde.</item>
+                  <item>The Lord of Mothe Bureau.</item>
+                  <item>The Lord of Bouneliere, Lieuetenant to the Lord of Montagne.</item>
+                  <pb facs="tcp:6428:9"/>
+                  <item>The Lord Eſplaudian Captaine of a Companie of harguebuſiers on horſebacke.</item>
+                  <item>Captaine Charreu, leader of a Companie of fiftie harguebuſiers on horſebacke.</item>
+                  <item>Beauuais Captaine of one Companie of hargue<g ref="char:EOLhyphen"/>buſiers.</item>
+                  <item>Captaine Curſay, Captaine of the ſayde Vicounts guard.</item>
+                  <item>The Lorde Feret, Captaine of two hundred Spa<g ref="char:EOLhyphen"/>niards.</item>
+                  <item>The Lord Grandmond, Nephew to Bonnes.</item>
+                  <item>The Lord of Ville Cheze.</item>
+                  <item>The Lorde of Grand-Meyne, of Angon<g ref="char:EOLhyphen"/>mois.</item>
+                  <item>The Lord of Eſtang, brother to Bois Cil<g ref="char:EOLhyphen"/>les.</item>
+                  <item>The Lord Chaſtillon Souuy.</item>
+                  <item>The Lord of Saint Pardoux.</item>
+                  <item>The Lord of Largot.</item>
+                  <item>The Lord of Peruſſe.</item>
+                  <item>The Lord of Mougyn.</item>
+                  <item>The Lord of Ardiller.</item>
+                  <item>The Lord of Beguaye.</item>
+                  <item>Conterie, Maiſter of the voward to the Dutches of Montpenſier.</item>
+                  <item>The Lord de Seryer, ſonne to Montinac.</item>
+                  <item>The Lord of Fons Sarmois.</item>
+                  <item>The Lord of Michenier.</item>
+                  <pb facs="tcp:6428:10"/>
+                  <item> The two Grues of Nyort.</item>
+               </list>
+               <p>And about one hundred and fiftie others Gen<g ref="char:EOLhyphen"/>tlemen and Captaines.</p>
+            </div>
+            <div type="part">
+               <head>THE NAMES OF THOSE that were taken priſoners.</head>
+               <list>
+                  <item>The Lord of Villechize, Lieuetenant of the com<g ref="char:EOLhyphen"/>panie of the men of Armes of the ſayde Coun<g ref="char:EOLhyphen"/>tie.</item>
+                  <item>The Lorde of Moule, Eſquier to the ſayde Vi<g ref="char:EOLhyphen"/>cont.</item>
+                  <item>The Lorde of Mere of Angulmois, who had charge of a Regiment, and had the conduct of the enterpriſe of Angouleſme againſt the D of Efrernon.</item>
+                  <item>The Lord of Conterie.</item>
+                  <item>The Lord of Fougere.</item>
+                  <item>The Lord of Brueil of Anſignie, and the Cap<g ref="char:EOLhyphen"/>taine Brueil his brother, with the ſaid Aung<g ref="char:EOLhyphen"/>ny his ſonne.</item>
+                  <pb facs="tcp:6428:10"/>
+                  <item> The Lord of Contour.</item>
+               </list>
+               <p>Beſides, there bee many other ſpeciall men of name, that is not as yet knowen where they are become, ſo as they be ſure<g ref="char:EOLhyphen"/>ly thought to be drowned.</p>
+               <list>
+                  <item>The Lord of Albiou, Commander of one compa<g ref="char:EOLhyphen"/>nie of Gentlemen at Armes.</item>
+                  <item>The Lord of Briaudiere.</item>
+                  <item>The Lord of Grauouliou.</item>
+                  <item>The Lord of Mortaigne ſonne to the Lord of Ou<g ref="char:EOLhyphen"/>nac.</item>
+                  <item>The Lord of Ardiliere.</item>
+                  <item>Bonneliere, Lieuetenant to the Lorde of Mor<g ref="char:EOLhyphen"/>taigne.</item>
+                  <item>Captaine Chaucarre.</item>
+                  <item>Chautagny lieuetenant.</item>
+               </list>
+               <p>The foreſaid Vicounts Father as yet remai<g ref="char:EOLhyphen"/>neth in the caſtle of Guyerche, vntill the kings pleaſure heerein be far<g ref="char:EOLhyphen"/>ther knowen.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
